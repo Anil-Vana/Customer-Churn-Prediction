@@ -308,7 +308,9 @@ The probability represents a model estimate and is not a guarantee of actual cus
 ![Prediction History Using Filter](screenshots/Prediction_History_using_filter.png)
 ### Model Performance
 
-![Model Performance](screenshots\Model_performance.png)
+### Model Performance
+
+![Model Performance](screenshots/Model_performance.png)
 
 
 ## 15. Project Structure
