@@ -21,6 +21,7 @@ Thumbs.db
 # Environment variables
 .env
 .env.*
+!.env.example
 
 # Logs and temporary files
 *.log
@@ -38,3 +39,10 @@ Thumbs.db
 build/
 dist/
 *.egg-info/
+
+# Model temporary files
+*.joblib
+*.pkl.tmp
+
+# Raw datasets (optional)
+# data/raw/
