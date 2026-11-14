@@ -281,26 +281,31 @@ The probability represents a model estimate and is not a guarantee of actual cus
 
 ### Application Homepage
 
-![Streamlit Application Homepage](screenshots\Application_Home.png)
-![Streamlit Application Homepage](screenshots\Application_Home_2.png)
+## Screenshots
+
+### Streamlit Application Homepage
+
+![Streamlit Application Homepage](screenshots/Application_Home.png)
+
+![Streamlit Application Homepage](screenshots/Application_Home_2.png)
 
 ### Customer Churn Prediction
 
-![Customer Churn Prediction](screenshots\Customer_Churn_Prediction-Churn.png)
+![Customer Churn Prediction](screenshots/Customer_Churn_Prediction-Churn.png)
 
 ### Customer Stay Prediction
 
-![Customer Stay Prediction](screenshots\Customer_Churn_Prediction-Stay.png)
+![Customer Stay Prediction](screenshots/Customer_Churn_Prediction-Stay.png)
 
 ### Analytics Dashboard
 
-![Customer Churn Analytics Dashboard](screenshots\Analytics_Dashboard.png)
+![Customer Churn Analytics Dashboard](screenshots/Analytics_Dashboard.png)
 
-### Prediction History 
+### Prediction History
 
-![Prediction History ](screenshots\Prediction_History.png)
-![Prediction History ](screenshots\Prediction_History_using_filter.png)
+![Prediction History](screenshots/Prediction_History.png)
 
+![Prediction History Using Filter](screenshots/Prediction_History_using_filter.png)
 ### Model Performance
 
 ![Model Performance](screenshots\Model_performance.png)
