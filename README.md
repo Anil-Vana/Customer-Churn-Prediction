@@ -38,6 +38,13 @@ This project addresses the problem by analyzing historical customer information 
 
 The project uses the Telco Customer Churn dataset.
 
+Download the dataset from:
+
+- [Download telco_customer_churn.csv](https://raw.githubusercontent.com/IBM/telco-customer-churn-on-icp4d/master/data/Telco-Customer-Churn.csv)
+
+Rename the downloaded file to `telco_customer_churn.csv` and place it inside the `data/` directory.
+
+
 ### Dataset Information
 
 | Attribute | Description |
@@ -345,6 +352,13 @@ customer-churn-prediction/
 │
 └── reports/
     └── (project reports and CSV results)
+```
+
+## Clone Repository
+
+```bash
+git clone https://github.com/Anil-Vana/Customer-Churn-Prediction.git
+cd Customer-Churn-Prediction
 ```
 
 ## 16. Installation and Execution
